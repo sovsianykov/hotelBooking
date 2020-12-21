@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+
+
+.App-title {
+  font-size: 1.5em;
+}
+
+body {
+  background: brown;
+  color: wheat;
+}
+h2 {
+  font-weight: 400;
+}
+span {
+  font-size: 1.2rem;
+  color: brown;
+}
+.App {
+  padding: 20px;
+  width: 400px;
+  height: 600px;
+  margin: 10px auto;
+  background: black;
+}
+input {
+  width: 25%;
+  height: 24px;
+
+  margin: 10px auto 0;
+
+
+
+
+  opacity: 1;
+}
